@@ -5,16 +5,15 @@ This is a simple implementation of the Tenzi dice game using React.
 RULES OF TENZIES
 Tenzi is a fast-paced dice game that can be played with 2-4 players. Each player gets 10 dice, and the goal is to be the first player to roll all of their dice to the same number.
 
-Installation
+INSTALLATION
 To use this app, simply clone this repository to your local machine and run the following command:
 
-Copy code
+COPY CODE
 
 npm install
 Once the dependencies are installed, you can run the app using the following command:
 
 
-Copy code
 npm start
 
 FEATURES
